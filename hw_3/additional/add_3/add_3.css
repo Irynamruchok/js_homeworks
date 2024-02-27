@@ -1,0 +1,17 @@
+.wrap{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.post-card{
+    width: 19vw;
+    height: 30vh;
+    border: 1px solid darkslategray;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

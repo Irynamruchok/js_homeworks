@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91ec0fc-d48b-43e6-98a7-e87f7049270c" name="Changes" comment="hw_2" />
+    <list default="true" id="d91ec0fc-d48b-43e6-98a7-e87f7049270c" name="Changes" comment="hw">
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_1/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_1/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_2/add_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_2/add_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_2/add_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_3/add_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_3/add_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_3/add_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_4/add_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/additional/add_4/add_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/hw_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/hw_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/hw_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -26,14 +50,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "hw__1",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw_3/additional/add_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,10 +76,36 @@
       <option name="presentableId" value="Default" />
       <updated>1708890204215</updated>
       <workItem from="1708890205678" duration="1000" />
+      <workItem from="1708961869379" duration="335000" />
+      <workItem from="1709024706409" duration="15556000" />
     </task>
+    <task id="LOCAL-00001" summary="hw">
+      <option name="closed" value="true" />
+      <created>1708961661865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708961661865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw" />
   </component>
 </project>
