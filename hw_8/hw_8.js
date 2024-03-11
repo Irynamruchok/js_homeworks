@@ -1,5 +1,6 @@
 // - Створити функцію конструктор для об'єктів User з полями id, name, surname , email, phone
 // створити пустий масив, наповнити його 10 об'єктами new User(....)
+
 function User (id,name,surname,email,phone){
     this.id = id
     this.name = name
@@ -34,6 +35,7 @@ console.log(sortedArr)
 
 // - створити класс для об'єктів Client з полями id, name, surname , email, phone, order (поле є масивом зі списком товарів)
 // створити пустий масив, наповнити його 10 об'єктами Client
+
 class Client {
     constructor(id, name, surname , email, phone, order) {
         this.id = id
@@ -44,6 +46,7 @@ class Client {
         this.order = order
     }
 }
+
 let clients = [
      new Client(1, 'John', 'Doe', 'john.doe@example.com', '+1234567890', ['Product1', 'Product2', 'Product3']),
      new Client(2, 'Alice', 'Smith', 'alice.smith@example.com', '+1987654321', ['Product4', 'Product5']),
@@ -92,11 +95,13 @@ function Car (model,manufacturer,yearOfManufacture,maximumSpeed,engineDisplaceme
         this.driver = driver
     }
 }
+
 let driver = {
     name: 'John',
     age: 30,
     licenseNumber: 'AB12345'
 };
+
 let myCar =new Car('Lanos','Ukraine', 1998, 300,5.0)
 myCar.drive()
 
@@ -143,6 +148,7 @@ class Car1 {
         this.driver = driver
     }
 }
+
 let myCar1 = new Car1('Citroen','France', 2009,155,1.1)
 myCar1.drive()
 myCar1.info()
@@ -166,6 +172,7 @@ function Cinderella (name,age,shoeSize) {
     this.age = age
     this.shoeSize = shoeSize
 }
+
 let cinderellas = [
     new Cinderella('Cindy', 20, 7),
     new Cinderella('Ella', 22, 6),
@@ -178,6 +185,7 @@ let cinderellas = [
     new Cinderella('Isabella', 20, 8),
     new Cinderella('Mia', 22, 7)
 ]
+
  class Prince  {
     constructor(name,age,shoeSize) {
         this.name = name
@@ -185,7 +193,9 @@ let cinderellas = [
         this.shoeSize = shoeSize
     }
 }
+
 let prince = new Prince('Charles',22,6)
+
 for (const cinderella of cinderellas) {
     if (cinderella.shoeSize === prince.shoeSize) {
         console.log(`${cinderella.name} є Попелюшкою та одружиться з ${prince.name}`)
