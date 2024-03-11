@@ -69,6 +69,7 @@ console.log(sortedClientsArr)
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
+
 function Car (model,manufacturer,yearOfManufacture,maximumSpeed,engineDisplacement) {
     this.model = model
     this.manufacturer = manufacturer
@@ -117,6 +118,7 @@ console.log(myCar)
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
+
 class Car1 {
     constructor(model,manufacturer,yearOfManufacture,maximumSpeed,engineDisplacement) {
         this.model = model
@@ -158,6 +160,7 @@ console.log(myCar1)
 // Сторити об'єкт класу "принц" за допомоги класу який має поля ім'я, вік, туфелька яку він знайшов.
 //     За допомоги циклу знайти яка попелюшка повинна бути з принцом.
 //     Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
+
 function Cinderella (name,age,shoeSize) {
     this.name = name
     this.age = age
