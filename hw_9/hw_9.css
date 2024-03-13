@@ -1,0 +1,40 @@
+.wrap{
+    background-color: purple;
+    width: 300px;
+    height: 300px;
+}
+.collapse {
+    border-radius: 50%;
+}
+.alpha{
+    border: 3px solid pink;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.info{
+    width: 50vw;
+}
+.infoBlock{
+    width: 100vw;
+    display: flex;
+}
+
+/*---------------------------------------------------------------------------*/
+
+.main{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.durations{
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+}
+.modulesSection{
+    width: 50vw;
+    justify-content: flex-start;
+}
