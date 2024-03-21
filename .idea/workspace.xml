@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91ec0fc-d48b-43e6-98a7-e87f7049270c" name="Changes" comment="hw_8">
-      <change afterPath="$PROJECT_DIR$/hw_9/hw_9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_9/hw_9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_9/hw_9.js" afterDir="false" />
+    <list default="true" id="d91ec0fc-d48b-43e6-98a7-e87f7049270c" name="Changes" comment="hw_10">
+      <change afterPath="$PROJECT_DIR$/hw_10/hw_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_10/hw_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_10/sessions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_10/sessions/session.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -72,7 +73,8 @@
       <workItem from="1709571790365" duration="1314000" />
       <workItem from="1709632859437" duration="11055000" />
       <workItem from="1710191504300" duration="6106000" />
-      <workItem from="1710358951704" duration="6726000" />
+      <workItem from="1710358951704" duration="6921000" />
+      <workItem from="1711015065030" duration="7322000" />
     </task>
     <task id="LOCAL-00001" summary="hw">
       <option name="closed" value="true" />
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710197732389</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hw_9">
+      <option name="closed" value="true" />
+      <created>1710366484768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710366484768</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +172,8 @@
     <MESSAGE value="hw_5" />
     <MESSAGE value="hw_6" />
     <MESSAGE value="hw_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_8" />
+    <MESSAGE value="hw_9" />
+    <MESSAGE value="hw_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_10" />
   </component>
 </project>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    let dates = JSON.parse(localStorage.getItem('sessions'))
+    for (const date of dates) {
+        console.log(date)
+        let dateContainer = document.createElement('div')
+        dateContainer.innerText = date
+     document.body.appendChild(dateContainer)
+    }
+</script>
+</body>
+</html>

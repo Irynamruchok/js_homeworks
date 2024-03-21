@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #text{
+            background-color: cornflowerblue;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<form action='' name='forma1'>
+    <label> <input type='text' name='name' placeholder='name'/> </label>
+    <label> <input type='text' name='surname' placeholder='surname'/>  </label>
+    <label>  <input type='number' name='age' placeholder='age'>  </label>
+    <button> Send </button>
+</form>
+
+<form action="" name="forma2">
+    <label> Enter your age <input type="number" name="age"></label>
+    <button id="confirmButton"> Confirm </button>
+</form>
+
+<form action='' name='forma3'>
+    <label for="rowCount"> Rows:
+        <input type='number' name='rowCount' id="rowCount" min="1" value="1" />
+    </label>
+    <label for="colCount"> Columns:
+        <input type='number' name='colCount' id="colCount" min="1" value="1"/>
+    </label>
+    <label for="content"> Content:
+        <input type='text' name='content' id="content"  />
+    </label>
+    <button id="createButton"> Create Table </button>
+</form>
+<div id="tableContainer"></div>
+
+
+
+
+<script src="hw_10.js">
+
+</script>
+</body>
+</html>
