@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d91ec0fc-d48b-43e6-98a7-e87f7049270c" name="Changes" comment="hw_10">
-      <change afterPath="$PROJECT_DIR$/hw_10/hw_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_10/hw_10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_10/sessions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_10/sessions/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_11/hw_11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_11/hw_11.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +72,7 @@
       <workItem from="1709632859437" duration="11055000" />
       <workItem from="1710191504300" duration="6106000" />
       <workItem from="1710358951704" duration="6921000" />
-      <workItem from="1711015065030" duration="7322000" />
+      <workItem from="1711015065030" duration="10693000" />
     </task>
     <task id="LOCAL-00001" summary="hw">
       <option name="closed" value="true" />
@@ -148,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710366484768</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hw_10">
+      <option name="closed" value="true" />
+      <created>1711031359910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711031359910</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
